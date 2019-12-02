@@ -1,0 +1,14 @@
+F:\WebfineUI\dmt-yc\EmptyProjectNet40_FineUI\bin\EmptyProjectNet40_FineUI.dll
+F:\WebfineUI\dmt-yc\EmptyProjectNet40_FineUI\bin\EmptyProjectNet40_FineUI.pdb
+F:\WebfineUI\dmt-yc\EmptyProjectNet40_FineUI\bin\FineUI.xml
+F:\WebfineUI\dmt-yc\EmptyProjectNet40_FineUI\bin\Newtonsoft.Json.xml
+F:\WebfineUI\dmt-yc\EmptyProjectNet40_FineUI\obj\Debug\EmptyProjectNet40_FineUI.csprojResolveAssemblyReference.cache
+F:\WebfineUI\dmt-yc\EmptyProjectNet40_FineUI\obj\Debug\EmptyProjectNet40_FineUI.dll
+F:\WebfineUI\dmt-yc\EmptyProjectNet40_FineUI\obj\Debug\EmptyProjectNet40_FineUI.pdb
+E:\WEB\多媒体管理网站\dmt\bin\EmptyProjectNet40_FineUI.dll
+E:\WEB\多媒体管理网站\dmt\bin\EmptyProjectNet40_FineUI.pdb
+E:\WEB\多媒体管理网站\dmt\bin\FineUI.xml
+E:\WEB\多媒体管理网站\dmt\bin\Newtonsoft.Json.xml
+E:\WEB\多媒体管理网站\dmt\obj\Debug\EmptyProjectNet40_FineUI.csprojResolveAssemblyReference.cache
+E:\WEB\多媒体管理网站\dmt\obj\Debug\EmptyProjectNet40_FineUI.dll
+E:\WEB\多媒体管理网站\dmt\obj\Debug\EmptyProjectNet40_FineUI.pdb

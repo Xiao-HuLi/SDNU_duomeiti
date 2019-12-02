@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="F:\NetWeb" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="多媒体异常数据查询系统" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="administrator" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATo5jODWX5EmRJtLjQAGUQwAAAAACAAAAAAAQZgAAAAEAACAAAADDVyHR08RJ9zR1HIXd+/iLTU61PVvW+JGkQukb/DDwrgAAAAAOgAAAAAIAACAAAAB7vFoxz2Aa5ApxfTrxbcb0ChfW56tSWxA12eFbxhuA7SAAAABAbhpQMpuK4EoZ0Yo3ElGZgyyMunpQclxO4QC6hucu30AAAACgBX494L9Ls8NljtHfAbval8efNNGCdDsQgVsCEImyVbXNgWvYbScCuENrR+1ywCwhVfUAYZkGgDvBKJIkvd+o" SelectedForPublish="True">
+    <file relUrl="bin/FineUI.xml" publishTime="09/13/2017 09:42:06" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="10/17/2013 12:51:02" />
+    <file relUrl="bin/EmptyProjectNet40_FineUI.pdb" publishTime="03/10/2019 15:53:00" />
+    <file relUrl="统计/kebiao.aspx" publishTime="03/08/2019 04:51:59" />
+    <file relUrl="default.aspx" publishTime="03/08/2019 10:19:47" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="10/17/2013 12:51:02" />
+    <file relUrl="bin/EmptyProjectNet40_FineUI.dll" publishTime="03/10/2019 15:53:00" />
+    <file relUrl="captcha/captcha.ashx" publishTime="12/01/2012 23:23:54" />
+    <file relUrl="admin/admin.aspx" publishTime="03/08/2019 13:43:22" />
+    <file relUrl="统计/tongji.aspx" publishTime="03/08/2019 03:26:52" />
+    <file relUrl="login.aspx" publishTime="07/19/2014 17:18:24" />
+    <file relUrl="统计/xytable.aspx" publishTime="03/08/2019 15:46:53" />
+    <file relUrl="Web.config" publishTime="03/09/2019 07:26:01" />
+    <file relUrl="bin/FineUI.dll" publishTime="09/13/2017 09:42:06" />
+    <file relUrl="shishi.aspx" publishTime="03/08/2019 12:42:29" />
+    <file relUrl="table.aspx" publishTime="03/08/2019 12:24:45" />
+  </publishProfile>
+</publishData>
